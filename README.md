@@ -56,4 +56,16 @@ A web server can be accessed through browser programs such as Internet Explorer,
 
 Most web servers use robust systems such as Apache, based on Linux and freely distributed, mainly due to security and the large number of tools available for creating, managing and publishing websites.
 
+## How to create your localhost
 
+
+install express with npm
+
+```bash
+  npm install -save express
+```
+create package.json with npm
+ ( remember to point to the index.js file )
+```bash
+  npm init
+```
